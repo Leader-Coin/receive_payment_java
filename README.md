@@ -2,4 +2,4 @@
 
 ====================
 
-Receive Bitcoin Payment Java Example using the blockchain.info receive API https://blockchain.info/api/api_receive
+Receive Bitcoin Payment Java Example using the blockchain.info receive API https://ldcblockchain.info/api/api_receive
